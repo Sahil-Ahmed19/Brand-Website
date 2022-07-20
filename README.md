@@ -1,0 +1,1 @@
+Connected to Heroku app just click on the link to view the website
